@@ -20,7 +20,7 @@ OpenGL Python 3D Engine
 Consider that you want to display a block
 ![EmptyWorld](https://github.com/MatinAfzal/FloatArtsEngine/assets/128434167/15128606-782f-49dc-b8f2-421ade95f3fc)
 
-The class needed to make a cube is inside the FloatArtsEngine module
+The class needed to make a cube is inside the module_capsulrun_Vany.Block module
 ```
 # FloatArtsEngine/fae.py
 from main.Level.module_capsulrun_Vany.Block import *
