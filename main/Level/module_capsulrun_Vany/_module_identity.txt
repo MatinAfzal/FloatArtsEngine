@@ -1,0 +1,10 @@
+# module main information
+module_name: CapsulRun
+module_description: More information on github!
+module_creators: [Matin Afzal @MatinAfzal]
+module_link: https://github.com/MatinAfzal/
+added_date: 24/5/2024
+
+# module requirements
+module_inline_reqs = [module_3dicu_v0.0.1-beta]
+module_outline_reqs =  None

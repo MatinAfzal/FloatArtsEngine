@@ -1,0 +1,10 @@
+# module main information
+module_name: 3DICU
+module_description: More information on github!
+module_creators: [Matin Afzal @MatinAfzal]
+module_link: https://github.com/MatinAfzal/3DICU
+added_date: 24/5/2024
+
+# module requirements
+module_inline_reqs = None
+module_outline_reqs =  None
