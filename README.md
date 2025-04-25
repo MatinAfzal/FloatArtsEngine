@@ -1,6 +1,9 @@
 # Float Arts Engine (FAE)
 OpenGL Python 3D Engine
 
+> ⚠️ **Important:**  
+> At the time I was working on this project, my main goal was to get it running on my own machine. It hasn't been optimized for other environments, so you may run into issues.
+
 # Capabilities
 - Moving camera (wasd + mouse)
 - Reading and displaying obj files
